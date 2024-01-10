@@ -1,0 +1,21 @@
+.row{
+    display: flex;
+    margin: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-image: radial-gradient(circle, #d16bca, #ba82df, #a195ec, #8da5f1, #82b2ef, #73bdf3, #68c7f4, #64d1f2, #46ddf2, #31e8ea, #3cf2dc, #5ffbc7);
+}
+.col-1{
+    width: 50%;
+    text-align: end;
+}
+.col-2{
+    width: 50%;
+    padding: 20px;
+}
+.content-style{
+    font-size: 20px;
+    line-height: 30px;
+    font-family: sans-serif;
+}
